@@ -5,8 +5,7 @@
 
 This data analysis project aims to provide insights into the staff performance  over the past 8 years. By analyzing various aspects of the data, we need to make data-driven recommendations and gain a deeper understanding of the company's performance.
 
-
-
+![Dashboard](https://github.com/Omer-etiwie/Staff-Report/assets/171517937/26e40bd3-7164-4029-96bf-56f9b0d178eb)
 
 ### Data Sources
 
